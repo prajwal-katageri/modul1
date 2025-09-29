@@ -1,2 +1,3 @@
 #include<stdio.h>
 igrininhthkj
+today date is 29/09/2025
